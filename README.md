@@ -1,5 +1,5 @@
 # TaxonNamesResolver
-Automatically search taxon names against the [Global Names Resolver (GNR)](resolver.globalnames.org) to:
+Automatically search taxon names against the [Global Names Resolver (GNR)](http://resolver.globalnames.org/) to:
 * Find the most likely matching name for a given taxonomic name
 * Generate taxonomic lineages
 * Generate taxonomic IDs
